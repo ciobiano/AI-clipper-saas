@@ -1,10 +1,6 @@
 # AI Podcast Clipper
 
-![alt text](thumbnail.png)
 
-[Link to video](https://youtu.be/PeFZcvWucoU)
-
-[Discord and more](https://www.andreastrolle.com/)
 
 ## Overview
 
